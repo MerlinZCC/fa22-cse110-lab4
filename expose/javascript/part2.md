@@ -29,7 +29,5 @@
     E. false, true becomes 1 != 2
     F. true, boolean of 2 is true, which equals to true in values and type
 15. A strict equality operator === checks the equality as well as the data types of the operands while the == operator does the type conversion of the operands before comparison
-
-17.The result would be [ 2, 4, 6 ]. First we call function modifyArray with inoput array [ 1, 2, 3] and a call back function doSomething. Inside the function, it iterates through the length of the input array and pass in each array element into the callback function, doSomething, which will double the number. Then it will push each of resultant number into newArr and return the newArr, [ 2, 4, 6 ]
-
-19.1 4 3 2
+17. The result would be [ 2, 4, 6 ]. First we call function modifyArray with inoput array [ 1, 2, 3] and a call back function doSomething. Inside the function, it iterates through the length of the input array and pass in each array element into the callback function, doSomething, which will double the number. Then it will push each of resultant number into newArr and return the newArr, [ 2, 4, 6 ]
+19. 1 4 3 2
