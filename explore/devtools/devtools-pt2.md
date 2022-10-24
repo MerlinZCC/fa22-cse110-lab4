@@ -1,1 +1,2 @@
 1. The bug is that the function concatenate the two input string rather than summing the numerical value of the two inputs.
+2. I cast the inputs num1, num2 to Number so that the addition operation will work and return their sum as result

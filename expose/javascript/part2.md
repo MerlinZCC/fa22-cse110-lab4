@@ -10,7 +10,7 @@
 10. It will print 3, since at line 4, length is a constant which is the size of the input prices
 11. It will returns [50, 100, 150], since the function iterates over the given prices[100, 200, 300] and push prices after applying the discount in the output array discounted.
 12. A. student.name
-    B. student["Grad year"]
+    B. student['Grad year']
     C. student.greeting()
     D. student['Favorite Teacher'].name
     E. student.courseLoad[0]
